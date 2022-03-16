@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "FeatureADevProject"
-include ':app'
+include ':app', ':FeatureA'
