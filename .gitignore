@@ -13,3 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
+/FeatureA/.git
+/FeatureB/.git

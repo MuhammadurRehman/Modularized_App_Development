@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "MultiTaskDemoSetup"
-include ':app', ':FeatureA'
+include ':app', ':FeatureA', ':FeatureB'
